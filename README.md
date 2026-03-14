@@ -1,10 +1,16 @@
-# 📊 Sales Performance Dashboard (Power BI)
+# 📊 Sales Performance Dashboard using Power BI
+
+## Dashboard Preview
+
+![Sales Dashboard](dashboard_preview.png)
+
+---
 
 ## 📌 Project Overview
 
-This project presents an interactive **Sales Performance Dashboard** built using **Power BI** to analyze business sales data and uncover key insights such as revenue trends, regional performance, and product category analysis.
+This project presents an **interactive Sales Performance Dashboard built using Power BI** to analyze business sales data and uncover valuable insights such as revenue trends, regional performance, and product category analysis.
 
-The dashboard helps stakeholders monitor sales KPIs and make data-driven decisions by providing clear visualizations and interactive filtering capabilities.
+The dashboard helps businesses monitor key performance metrics and make **data-driven decisions** by transforming raw sales data into clear and interactive visualizations.
 
 ---
 
@@ -18,7 +24,7 @@ The dashboard helps stakeholders monitor sales KPIs and make data-driven decisio
 
 ## 📂 Dataset
 
-The dataset contains sales transaction data including:
+The dataset contains transactional sales data including:
 
 * Order Date
 * Region
@@ -27,7 +33,7 @@ The dataset contains sales transaction data including:
 * Profit
 * Quantity
 
-The dataset was cleaned and prepared before importing into Power BI.
+The dataset was cleaned and prepared before importing into Power BI for visualization and analysis.
 
 ---
 
@@ -48,22 +54,16 @@ The dataset was cleaned and prepared before importing into Power BI.
 * Top Performing Products
 * Interactive Filters and Slicers
 
-These visualizations help users quickly understand sales distribution and business performance.
+These visualizations allow users to explore sales performance across different business dimensions.
 
 ---
 
 ## 🔎 Key Insights
 
-* Identified **top performing product categories** driving revenue.
-* Analyzed **regional sales distribution** across markets.
-* Observed **monthly sales trends and growth patterns**.
-* Highlighted **high-profit products and sales segments**.
-
----
-
-## 🖼 Dashboard Preview
-
-![Sales Dashboard](dashboard_preview.png)
+* Identified **top performing product categories contributing to revenue growth**
+* Analyzed **regional sales distribution across markets**
+* Observed **monthly sales trends and seasonal patterns**
+* Highlighted **high-profit products and sales segments**
 
 ---
 
@@ -82,9 +82,9 @@ sales-performance-dashboard-powerbi
 
 ## 🚀 Future Improvements
 
-* Add **customer segmentation analysis**
-* Integrate **SQL data sources**
-* Build additional dashboards for **profit and customer behavior analysis**
+* Add **customer segmentation analysis using Python**
+* Integrate **SQL database connectivity**
+* Build additional dashboards for **profit analysis and customer insights**
 
 ---
 
@@ -94,3 +94,6 @@ sales-performance-dashboard-powerbi
 
 Data Analytics & AI/ML Enthusiast
 Python | Power BI | Machine Learning | Data Analysis
+
+LinkedIn: https://linkedin.com/in/vishal-raj-855326240
+
